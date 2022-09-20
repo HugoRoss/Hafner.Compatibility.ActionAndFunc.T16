@@ -2,7 +2,7 @@
 
 namespace CompileTests {
 
-    public class Test {
+    public class FuncTest {
 
         public Action? A0 { get; set; }
         public Action<string>? A1 { get; set; }
